@@ -15,7 +15,7 @@ your visual studio and open up cmd then type</p>
   pip install djangorestframework
   pip install markdown
   pip install django-filter
-
+```
 <p>Install django restframeworks</p>
 
 <h3>Setting up django project</h3>
