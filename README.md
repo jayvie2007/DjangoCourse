@@ -9,6 +9,15 @@
 <p>After installing django open up 
 your visual studio and open up cmd then type</p>
 
+<h3>Install rest_framework</h3>
+
+```
+  pip install djangorestframework
+  pip install markdown
+  pip install django-filter
+
+<p>Install django restframeworks</p>
+
 <h3>Setting up django project</h3>
 
 ```bash
