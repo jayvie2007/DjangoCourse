@@ -43,6 +43,6 @@ your visual studio and open up cmd then type</p>
 
 ```bash
   python manage.py runserver
-  python manage.py makemigration
+  python manage.py makemigrations
   python manage.py migrate
 ```
